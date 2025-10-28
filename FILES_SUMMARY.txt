@@ -1,0 +1,12 @@
+VyapariGPT Repository Files Summary
+
+- custom_llm_complete.py: Core VyapariGPT transformer, tokenizer, generation
+- train_llm_advanced.py: Training pipeline with checkpoints, scheduler, AdamW
+- inference.py: CLI + interactive chat for VyapariGPT
+- README.md: Branded docs with badges, animations, credits to Anish Vyapari
+- QUICKSTART.md: 5-minute guide
+- SETUP_GITHUB.md: Repo polish steps (pin, topics, discussions)
+- requirements.txt: Dependencies
+- .gitignore: Git hygiene
+- LICENSE: MIT, © 2025 Anish Vyapari
+- FILES_SUMMARY.txt: This summary
