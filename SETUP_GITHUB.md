@@ -1,0 +1,22 @@
+# 🚀 Repo & Profile Setup (GitHub)
+
+- Repository
+  - Settings → General: Description short + emojis; Topics: llm, nlp, pytorch, transformers
+  - Visibility: Public; Enable “Automatically delete head branches”
+  - Actions: Enable workflows; Allow read/write for PRs if needed
+- Branches
+  - Default: main; Protect main (require PR review, status checks)
+- Secrets (CI/CD)
+  - Settings → Secrets and variables → Actions: add WANDB_API_KEY (optional)
+- Pages (optional demo)
+  - Settings → Pages: Deploy from GitHub Actions
+- Labels (issues/PRs)
+  - Add: type:bug, type:feat, type:docs, good-first-issue, help-wanted
+- Templates (.github)
+  - Keep concise ISSUE_TEMPLATEs and PULL_REQUEST_TEMPLATE with checklists
+- Profile Featuring
+  - Add Topic: featured; Pin repo on profile; Add to Project “Portfolio”
+- Consistency
+  - Keep READMEs short, with badges + sections; unique name/style per repo
+- Community
+  - Add Discord link to README: https://discord.gg/dzsKgWMgjJ
